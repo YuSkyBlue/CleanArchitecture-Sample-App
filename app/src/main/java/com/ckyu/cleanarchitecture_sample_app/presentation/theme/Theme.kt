@@ -1,4 +1,4 @@
-package com.ckyu.cleanarchitecture_sample_app.ui.theme
+package com.ckyu.cleanarchitecture_sample_app.presentation.theme
 
 import android.app.Activity
 import android.os.Build
